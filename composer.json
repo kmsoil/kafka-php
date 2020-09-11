@@ -1,0 +1,24 @@
+{
+    "name": "kmsoil/kafka-php",
+    "description": "kafka-php",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kafka\\" : "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hong.jiang",
+            "email": "290389305@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
